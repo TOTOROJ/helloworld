@@ -80,9 +80,10 @@
 http://example.com/
 
 
-$$
+<p class='md-math-block'>$
 A = \sum\nolimits_{i=1}^{N}{a_i}
-$$
+$</p>
+<p>&nbsp;</p>
 
 
 
